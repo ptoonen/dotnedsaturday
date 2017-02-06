@@ -1,3 +1,3 @@
-# dotNed Saturday 2017
+# Zero downtime applications with containers
 
-In de repo staan zowel de slides als demo code zoals ik die gebruikt heb tijdens mijn sessie 'zero downtime applications with containers' op zaterdag 28 januari 2017.
+In deze repo staat de code (inclusief bash scripting) zoals ik die gebruikt heb tijdens mijn demo's over zero-downtime applications with containers.
